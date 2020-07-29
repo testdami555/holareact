@@ -1,6 +1,6 @@
 # Ejemplo de React
 
-Este es un ejemplo de React
+Este es un perfecto ejemplo de React
 
 ## Installation
 
